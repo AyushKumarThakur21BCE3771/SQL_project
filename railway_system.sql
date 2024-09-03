@@ -78,3 +78,4 @@ CREATE TABLE IF NOT EXISTS railway_system.train_routes (
 	estimated_arrival TIME,
 	estimated_departure TIME
 );
+
